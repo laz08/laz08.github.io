@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura C.</title>
+    <link>https://laz08.github.io/</link>
+    <description>Recent content on Laura C.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 16:24:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://laz08.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://laz08.github.io/about-me/</link>
+      <pubDate>Sun, 01 Jul 2018 16:24:52 +0200</pubDate>
+      
+      <guid>https://laz08.github.io/about-me/</guid>
+      <description>Hi! I&amp;rsquo;m Laura C. I was born on the 3rd of August in &amp;lsquo;94.
+To summarize, we could say I am a&amp;hellip;
+ Computer Science Bachelor / Software Engineer. Occasional nature explorer. Amateur photographer.  Oh, and I love using bullet lists to organize everything.
+Interests Currently, my main interests revolve around Data Science and Machine learning.
+Education I graduated on Computer Science at UPC and specialized at Software Engineering.</description>
+    </item>
+    
+    <item>
+      <title>Image Gender Classification using KNN, SVM and CNN</title>
+      <link>https://laz08.github.io/projects/image-gender-classification/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/image-gender-classification/</guid>
+      <description>(or, without applying acronyms, K Nearest Neighbors, Support Vector Machines and Convolutional Neural Networks methods.)
+Authors This project is a joint work done with my friends and colleagues:
+ Carles Garriga. (Contact him) Balbina Virgili. (Contact her) Me.  About The motivation of this project is derived from multiple factors.
+To summarize, we have always worked with numerical or categorical data. But having technology nowadays such as Facial recognition, we asked ourselves: how does machine learning work applied to images?</description>
+    </item>
+    
+    <item>
+      <title>Study on vehicles accidents occured in UK, 2016</title>
+      <link>https://laz08.github.io/projects/uk-accidents-study/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/uk-accidents-study/</guid>
+      <description>This project is a joint work done with my friend and colleague Carles G.. (Contact him)
+About The motivation of this project has been to study why and how the accidents in the UK occur, taking into account the circumstances, casualties and vehicles involved.
+This study was done as an assignment for the subject called Algorithmics for Data Mining (ADM) for Facultat d&amp;rsquo;Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC).</description>
+    </item>
+    
+    <item>
+      <title>American Comics&#39; Characters Data Visualization Analysis</title>
+      <link>https://laz08.github.io/projects/american-comics/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/american-comics/</guid>
+      <description>This (small) project aims to do a small analysis on American comics&amp;rsquo; superheroes and see if the characters most popular have any similar characteristics that makes them as such.
+Motivation Although not a fan of superheroes, the theme and topic was interesting. Mainly, I was interested on seeing if all the main characters in western comics follow any trend / share any traits.
+This project was done as an assignment for the subject called Data Analysis and Knowledge discovery (DAKD) for Facultat d&amp;rsquo;Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC).</description>
+    </item>
+    
+    <item>
+      <title>Data and Images Compression</title>
+      <link>https://laz08.github.io/projects/compression/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/compression/</guid>
+      <description>About Several small projects were done to study data compression.
+All their implementations have been done in Python.
+They were assignments for the subject called Data and Images Compression (CDI) for Facultat d&amp;rsquo;Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC). This subject is from the Degree in Computer Science at said university.
+The projects  Natural language entropy. &amp;lt;&amp;lt; See project here &amp;gt;&amp;gt; Source coding &amp;lt;&amp;lt; See project here &amp;gt;&amp;gt;:  Shannon Shannon fano</description>
+    </item>
+    
+  </channel>
+</rss>

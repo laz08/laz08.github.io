@@ -1,0 +1,34 @@
+---
+title: "Data and Images Compression"
+date: 2016-06-24
+draft: false
+---
+
+## About 
+
+Several small projects were done to study data compression.
+
+All their implementations have been done in **Python**.
+
+They were assignments for the subject called *Data and Images Compression* (CDI) for Facultat d'Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC). This subject is from the Degree in Computer Science at said university.
+
+
+
+## The projects
+
+1. **Natural language entropy**. [<< See project here >>](https://github.com/laz08/Natural-language-entropy)
+2. **Source coding** [<< See project here >>](https://github.com/laz08/source-coding):
+	+ Shannon
+	+ Shannon fano  
+	+ Huffman
+3. **Arithmetic coding**. [<< See project here >>](https://github.com/laz08/arithmetic-coding)
+4. **Dictionaries** [<< See project here >>](https://github.com/laz08/dictionary-encoding):
+	+ LZ77  
+	+ LZ78  
+	+ LZSS
+	+ LZW
+
+## Date
+
+* From: February of 2016
+* To: June of 2016
