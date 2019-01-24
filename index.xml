@@ -23,6 +23,17 @@ This study was done as an assignment for the subject called Complex and Social N
     </item>
     
     <item>
+      <title>Songs&#39; Network Analysis</title>
+      <link>https://laz08.github.io/projects/song_networks_analysis/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/song_networks_analysis/</guid>
+      <description>This small project is a joint work done with:
+ Carolina Jorge Centeio  About The motivation of this project has been to study whether we could create a Network of songs and find reasonable communities in them using a community detection algorithm of our choosing (Walktrap).
+This study was done as an assignment for the subject called Information Retrieval (IR) for Facultat d&amp;rsquo;Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC).</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://laz08.github.io/about-me/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
