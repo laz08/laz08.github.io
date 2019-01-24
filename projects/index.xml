@@ -6,10 +6,21 @@
     <description>Recent content in Projects on Laura C.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laz08.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simulating a Fake News Epidemic</title>
+      <link>https://laz08.github.io/projects/fake-news-proj/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/fake-news-proj/</guid>
+      <description>This project is a joint work done with:
+ Carolina Jorge Centeio Kymry Burwell  About The motivation of this project has been to study how Fake news spread and whether we were able to create an epidemic SI model to recreate it.
+This study was done as an assignment for the subject called Complex and Social Networks (CSN) for Facultat d&amp;rsquo;Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC).</description>
+    </item>
     
     <item>
       <title>Image Gender Classification using KNN, SVM and CNN</title>
@@ -24,7 +35,7 @@ To summarize, we have always worked with numerical or categorical data. But havi
     </item>
     
     <item>
-      <title>Study on vehicles accidents occured in UK, 2016</title>
+      <title>Study on vehicles accidents occurred in UK, 2016</title>
       <link>https://laz08.github.io/projects/uk-accidents-study/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
