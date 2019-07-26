@@ -6,10 +6,22 @@
     <description>Recent content on Laura C.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laz08.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>https://laz08.github.io/about-me/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/about-me/</guid>
+      <description>Hi! I&amp;rsquo;m Laura C. I was born on the 3rd of August in &amp;lsquo;94.
+To summarize, we could say I am a&amp;hellip;
+ Data Sciencist / Analyst. Computer Science Bachelor / Software Engineer. Occasional nature hiker.  Oh, and I love using bullet lists to organize everything.
+Interests Currently, my main interests revolve around Data Science and Machine learning. I have also taken a keen interest in graphs, in the context of Complex social networks.</description>
+    </item>
     
     <item>
       <title>Thesis: Analysis of proximity measures in networks</title>
@@ -43,18 +55,6 @@ This study was done as an assignment for the subject called Complex and Social N
       <description>This small project is a joint work done with:
  Carolina Jorge Centeio  About The motivation of this project has been to study whether we could create a Network of songs and find reasonable communities in them using a community detection algorithm of our choosing (Walktrap).
 This study was done as an assignment for the subject called Information Retrieval (IR) for Facultat d&amp;rsquo;Informatica de Barcelona at Universitat Politecnica de Catalunya (FIB - UPC).</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://laz08.github.io/about-me/</link>
-      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://laz08.github.io/about-me/</guid>
-      <description>Hi! I&amp;rsquo;m Laura C. I was born on the 3rd of August in &amp;lsquo;94.
-To summarize, we could say I am a&amp;hellip;
- Data Sciencist / Analyst. Computer Science Bachelor / Software Engineer. Occasional nature hiker.  Oh, and I love using bullet lists to organize everything.
-Interests Currently, my main interests revolve around Data Science and Machine learning. I have also taken a keen interest in graphs, in the context of Complex social networks.</description>
     </item>
     
     <item>
