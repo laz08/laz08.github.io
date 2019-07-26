@@ -6,10 +6,22 @@
     <description>Recent content on Laura C.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laz08.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thesis: Analysis of proximity measures in networks</title>
+      <link>https://laz08.github.io/projects/analysis-prox-measures/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/analysis-prox-measures/</guid>
+      <description>About This thesis is a research project about studying multiple (20) different proximity indices between nodes in a given network or graph.
+Due to a confidentiality agreement with both my supervisors and some plans in the near future that involve this whole study, I am not publishing my thesis yet neither the code.
+But feel free to ask me about it :)
+Code The code (which, again, is not published yet) has been written in R with around 3k to 4k lines of code.</description>
+    </item>
     
     <item>
       <title>Simulating a Fake News Epidemic</title>
@@ -36,14 +48,13 @@ This study was done as an assignment for the subject called Information Retrieva
     <item>
       <title>About Me</title>
       <link>https://laz08.github.io/about-me/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://laz08.github.io/about-me/</guid>
       <description>Hi! I&amp;rsquo;m Laura C. I was born on the 3rd of August in &amp;lsquo;94.
 To summarize, we could say I am a&amp;hellip;
- Data Science / Analyst student. Computer Science Bachelor / Software Engineer. Occasional nature hiker. (Very) amateur photographer.  Oh, and I love using bullet lists to organize everything.
-Interests Currently, my main interests revolve around Data Science and Machine learning.
-Education I graduated on Computer Science at Facultat d&amp;rsquo;Informatica de Barcelona, Universitat Politecnica de Catalunya (FIB, UPC) and specialized at Software Engineering.</description>
+ Data Sciencist / Analyst. Computer Science Bachelor / Software Engineer. Occasional nature hiker.  Oh, and I love using bullet lists to organize everything.
+Interests Currently, my main interests revolve around Data Science and Machine learning. I have also taken a keen interest in graphs, in the context of Complex social networks.</description>
     </item>
     
     <item>

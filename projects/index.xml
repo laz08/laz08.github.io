@@ -6,10 +6,22 @@
     <description>Recent content in Projects on Laura C.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laz08.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thesis: Analysis of proximity measures in networks</title>
+      <link>https://laz08.github.io/projects/analysis-prox-measures/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://laz08.github.io/projects/analysis-prox-measures/</guid>
+      <description>About This thesis is a research project about studying multiple (20) different proximity indices between nodes in a given network or graph.
+Due to a confidentiality agreement with both my supervisors and some plans in the near future that involve this whole study, I am not publishing my thesis yet neither the code.
+But feel free to ask me about it :)
+Code The code (which, again, is not published yet) has been written in R with around 3k to 4k lines of code.</description>
+    </item>
     
     <item>
       <title>Simulating a Fake News Epidemic</title>

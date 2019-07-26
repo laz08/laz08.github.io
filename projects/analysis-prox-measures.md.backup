@@ -1,0 +1,24 @@
+---
+title: "Thesis: Analysis of proximity measures in networks"
+date: 2019-07-05
+---
+
+
+## About
+
+This thesis is a research project about studying multiple (20) different proximity indices between nodes in a given network or graph. 
+
+
+Due to a confidentiality agreement with both my supervisors and some plans in the near future that involve this whole study, I am not publishing my thesis yet neither the code.
+
+
+But feel free to ask me about it :)
+
+## Code
+
+The code (which, again, is not published yet) has been written in R with around 3k to 4k lines of code. Includes a Shiny App in R.
+
+
+
+
+
